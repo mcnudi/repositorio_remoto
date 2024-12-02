@@ -1,1 +1,4 @@
-Menu de recetas
+Menu de recetas:
+ - tortillqa
+ - canelones
+ - pollo asado
